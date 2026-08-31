@@ -1,19 +1,14 @@
-# CookerSystemDesgin_Microcontroller
+# PIC cooker / microwave controller
 
-Microcontroller for Cooker ( Microwave ) MplabX and PicSimLAb using C
+Microcontrollers lab: a cooker (microwave-style) controller on a PIC, MPLAB X + PICSimLab.
 
-This repository is **original work** on this account. It is kept for provenance.
+`timers.X/` has C sources for timers, LCD (`lcd_x8.c`), ADC (`my_adc.c`), and serial (`my_ser.c`), plus the production `.hex`.
 
-It is **not** current research. Featured work:
+Hardware lab, not an appliance product.
 
-- [qg-lada-lab](https://github.com/ahmaddroobi99/qg-lada-lab) — QG Lagrangian data assimilation
-- [ai-perception-lab](https://github.com/ahmaddroobi99/ai-perception-lab) — computer vision lab
-- Profile: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
+**Stack:** C, PIC, MPLAB X
 
-## Language
+---
+Historical **BSc Computer Engineering** work (An-Najah National University, 2022). Kept for provenance — not current research.
 
-C
-
-## Year
-
-2022
+Current work: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
